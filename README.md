@@ -11,6 +11,7 @@
 ## 🖥️ Project Overview
 This project focuses on detecting skin cancer using deep learning techniques, specifically the **ResNet50** model implemented in **PyTorch**. The project is structured in **Python** and organized in **Jupyter Notebooks** for easy exploration and execution.
 
+<img src = "templates/Capture.JPG" width="800">
 ---
 
 ## 🌍 Environment Setup
