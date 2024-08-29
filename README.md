@@ -47,13 +47,15 @@ Save the dataset in your Kaggle directory.
 ## 7. 🚀 How to Run
 5. Run the Application
 To start the web application, execute the app.py</br>
-python app.py
+
 
 ## 6. 📊 Jupyter Notebook for EDA & Model Training
 Open the Jupyter Notebook for Exploratory Data Analysis (EDA) and model training:
 skin-cancer-detection-eda-image-processing.ipynb
 EDA.ipynb
 
+<a herf="https://drive.google.com/file/d/1CYVbwvArnFRpG-BJ5Zj3w0_WNN1EufHx/view?usp=drive_link">
+<img src="Keggle Notebook/jupiternotbook.JPG" width="800">
 ## 7. Flask App
 Run the Flask app to use the web interface:
 app.py
