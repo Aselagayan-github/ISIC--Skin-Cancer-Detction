@@ -1,0 +1,32 @@
+1. Environment Setup
+Install Required Libraries: Ensure you have Python installed along with the necessary libraries. You can use pip to install the required packages.
+
+import numpy as np
+import pandas as pd
+import cv2
+import matplotlib.pyplot as plt
+import torch
+from torchvision import transforms
+from torch.utils.data import Dataset, DataLoader
+import seaborn as sns
+
+2. download the folder (github or drive)
+
+3. file save the Desktop in your computer or laptop (c:/)
+
+4 .download the keggle images save the dataset file in kegglle(https://www.kaggle.com/competitions/isic-2024-challenge/data) 
+
+5. run app.py python file 
+
+6. skin-cancer-detection-eda-image-processing.ipynb/EDA.ipynb:
+This is the Jupyter notebook used to define and train the model.
+
+7 . app.py:
+This is the flask app that needs to run in order to use the webapp
+
+8  train.py:
+This contains the definition of the CNN model.
+9 .resnet_model.h5:
+Contains the weights of the Rersnet50 model extract model(extrack model in the model folder).
+
+10 . Ctrl + mouse click the  http://127.0.0.1:5000 url you can go to web page 

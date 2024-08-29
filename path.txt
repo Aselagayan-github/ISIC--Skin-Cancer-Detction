@@ -1,0 +1,15 @@
+plot_path = '/kaggle/working/Encoded Categorical Features Count.png'
+plt.savefig(plot_path)
+
+train_df = pd.read_csv('./dataset/train-metadata.csv')
+test_df = pd.read_csv('./dataset/test-metadata.csv')
+
+# Load the datasets
+train_df = pd.read_csv('/kaggle/input/isic-2024-challenge/train-metadata.csv')
+test_df = pd.read_csv('/kaggle/input/isic-2024-challenge/test-metadata.csv')
+
+
+path_list = [f"/kaggle/input/isic-2024-challenge/train-image/image/{id}.jpg" for id in df.isic_id]
+
+plot_path = '/kaggle/working/Lesion Area vs. Perimeter.png'
+plt.savefig(plot_path)
