@@ -56,6 +56,7 @@ EDA.ipynb
 
 <a herf="https://drive.google.com/file/d/1CYVbwvArnFRpG-BJ5Zj3w0_WNN1EufHx/view?usp=drive_link">
 <img src="Keggle Notebook/jupiternotbook.JPG" width="800">
+  
 ## 7. Flask App
 Run the Flask app to use the web interface:
 app.py
