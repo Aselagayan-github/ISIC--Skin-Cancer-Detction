@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* General body styles */
+body {
+    background-image: url('../images/TFSCD_infographics.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+/* Logo styles */
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 250px;
+}
+
+/* Centering text and content */
+.centered {
+    text-align: center;
+}
+
+/* Button styles */
+.btn-custom {
+    background-color: green;
+    color: white;
+}
+
+/* Additional styling for headings and paragraphs */
+h1, h2, h3, h4, h5 {
+    color: black;
+}
+
+/* Red disclaimer */
+.disclaimer {
+    color: red;
+}
